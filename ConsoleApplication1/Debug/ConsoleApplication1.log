@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.c
+D:\repos\EmbeddingPython\ConsoleApplication1\ConsoleApplication1.c(15,27): warning C4133: функция: несовместимые типы - из "char *" в "wchar_t *"
+D:\repos\EmbeddingPython\ConsoleApplication1\ConsoleApplication1.c(36,28): warning C4133: функция: несовместимые типы - из "char **" в "wchar_t **"
+D:\repos\EmbeddingPython\ConsoleApplication1\ConsoleApplication1.c(41,7): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+D:\repos\EmbeddingPython\ConsoleApplication1\ConsoleApplication1.c(42,22): warning C4474: "printf" : для строки формата передано слишком много аргументов
+D:\repos\EmbeddingPython\ConsoleApplication1\ConsoleApplication1.c(42,22): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  ConsoleApplication1.vcxproj -> D:\repos\EmbeddingPython\ConsoleApplication1\Debug\ConsoleApplication1.exe

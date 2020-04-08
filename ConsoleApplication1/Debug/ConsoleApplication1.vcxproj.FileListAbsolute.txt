@@ -1,0 +1,2 @@
+D:\repos\EmbeddingPython\ConsoleApplication1\Debug\ConsoleApplication1.exe
+D:\repos\EmbeddingPython\ConsoleApplication1\Debug\ConsoleApplication1.pdb
